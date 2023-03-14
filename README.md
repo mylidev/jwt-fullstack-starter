@@ -1,1 +1,1 @@
-# jwt-fullstack-starter
+# JWT Authentication Full Stack Starter Template
